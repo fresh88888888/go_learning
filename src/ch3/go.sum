@@ -1,0 +1,15 @@
+github.com/Masterminds/glide v0.13.3 h1:+FH7Q4XkWc4opoCXMtRoFgwBrLVa4eL7znxue1rmZpA=
+github.com/Masterminds/glide v0.13.3/go.mod h1:STyF5vcenH/rUqTEv+/hBXlSTo7KYwg2oc2f4tzPWic=
+github.com/Masterminds/semver v1.5.0 h1:H65muMkzWKEuNDnfl9d70GUjFniHKHRbFPGBuZ3QEww=
+github.com/Masterminds/semver v1.5.0/go.mod h1:MB6lktGJrhw8PrUyiEoblNEGEQ+RzHPF078ddwwvV3Y=
+github.com/Masterminds/vcs v1.13.3 h1:IIA2aBdXvfbIM+yl/eTnL4hb1XwdpvuQLglAix1gweE=
+github.com/Masterminds/vcs v1.13.3/go.mod h1:TiE7xuEjl1N4j016moRd6vezp6e6Lz23gypeXfzXeW8=
+github.com/codegangsta/cli v1.20.0 h1:iX1FXEgwzd5+XN6wk5cVHOGQj6Q3Dcp20lUeS4lHNTw=
+github.com/codegangsta/cli v1.20.0/go.mod h1:/qJNoX69yVSKu5o4jLyXAENLRyk1uhi7zkbQ3slBdOA=
+github.com/easierway/concurrent_map v1.0.0 h1:0NllRBqMFmz5GIh6QS6zQ3hXoHx9Qg269kxulMQkL/w=
+github.com/easierway/concurrent_map v1.0.0/go.mod h1:03wbRB/3rTQV+WtQkl+4IJoKciueQRfKmBcO+agCg6o=
+github.com/mitchellh/go-homedir v1.1.0 h1:lukF9ziXFxDFPkA1vsr5zpc1XuPDn/wFntq5mG+4E0Y=
+github.com/mitchellh/go-homedir v1.1.0/go.mod h1:SfyaCUpYCn1Vlf4IUYiD9fPX4A5wJrkLzIz1N1q0pr0=
+gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405/go.mod h1:Co6ibVJAznAaIkqp8huTwlJQCZ016jof/cbN4VW5Yz0=
+gopkg.in/yaml.v2 v2.4.0 h1:D8xgwECY7CYvx+Y2n4sBz93Jn9JRvxdiyyo8CTfuKaY=
+gopkg.in/yaml.v2 v2.4.0/go.mod h1:RDklbk79AGWmwhnvt/jBztapEOGDOx6ZbXqjP6csGnQ=

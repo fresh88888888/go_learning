@@ -1,0 +1,6 @@
+package: fb_test/src/ch3/service
+import: []
+testImport:
+- package: ch3/service
+- package: github.com/easierway/concurrent_map
+  version: v1.0.0
